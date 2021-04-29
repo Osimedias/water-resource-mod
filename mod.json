@@ -1,0 +1,9 @@
+{
+	"name": "water-resource-mod",
+	"label": "Water resource",
+	"version": "1.0.0",
+	"url": "",
+	"description": "Adds Water resource in to the game.",
+	"dependencies": ["0ad=0.0.24"],
+	"type": "resource"
+}
